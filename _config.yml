@@ -12,11 +12,11 @@ url: "https://MrLangford.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
+baseurl: "https://MrLangford.github.io"
 
 # Google tracking id to track your visitors
 
-google-tracking-id: "UA-35880426-4"
+#google-tracking-id: "UA-35880426-4"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
