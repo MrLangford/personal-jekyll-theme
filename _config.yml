@@ -3,7 +3,8 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "http://www.darklab.xyz"
+#url: "http://www.darklab.xyz"
+url: "https://mrlangford.github.io/mrlangford"
 
 # Option to force SSL when certificated.
 #enforce_ssl: "www.darklab.xyz"
@@ -15,7 +16,8 @@ url: "http://www.darklab.xyz"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: "http://www.darklab.xyz"
+#baseurl: "http://www.darklab.xyz"
+baseurl: "https://mrlangford.github.io/mrlangford"
 
 # Google tracking id to track your visitors
 
